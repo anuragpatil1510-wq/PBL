@@ -1,0 +1,5 @@
+{
+  "name": "Learnlytics",
+  "description": "An AI-powered application that predicts student academic performance based on various metrics and provides personalized recommendations and guided study sessions.",
+  "requestFramePermissions": []
+}
